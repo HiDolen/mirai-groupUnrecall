@@ -1,5 +1,10 @@
 /src/test/
 
+bots
+config
+data
+plugins
+
 # User-specific stuff
 .idea/
 
