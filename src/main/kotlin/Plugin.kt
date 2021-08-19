@@ -10,7 +10,7 @@ object Plugin : KotlinPlugin(
     JvmPluginDescription(
         id = "org.HiDolen.mirai-groupUnrecall",
         name="groupUnrecall",
-        version = "0.5",
+        version = "0.2.0",
     )) {
     override fun onEnable() {
         logger.info { "groupUnrecall Plugin loaded" }
